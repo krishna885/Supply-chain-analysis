@@ -6,17 +6,17 @@ Using SQL, Python, and Power BI, the project provides actionable insights to imp
 
 🎯 Project Objectives
 
-Analyze inventory levels across warehouses
-
-Identify understock and overstock products
-
-Evaluate supplier performance and lead times
-
-Measure warehouse efficiency and delivery delays
-
-Build interactive dashboards for business decision-making
-
-Generate data-driven insights using SQL and Power BI
+   1) Analyze inventory levels across warehouses
+   
+   2) Identify understock and overstock products
+   
+   3) Evaluate supplier performance and lead times
+   
+   4) Measure warehouse efficiency and delivery delays
+   
+   5) Build interactive dashboards for business decision-making
+   
+   6) Generate data-driven insights using SQL and Power BI
 
 🗂️ Dataset Description
 
