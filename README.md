@@ -213,8 +213,3 @@ Rishi Bhardwaj
 Aspiring Data Analyst
 Skills: SQL | Python | Power BI | Excel | Data Analysis
 
-
-
-✅ Flow diagram / architecture for GitHub
-
-If you want, I can upgrade this README to premium data analyst level 💎
