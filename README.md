@@ -1,4 +1,5 @@
 📦 Supply Chain & Inventory Analysis Project
+
 📌 Project Overview
 
 This project analyzes supply chain and inventory data to identify inefficiencies in stock management, supplier performance, warehouse operations, and order fulfillment.
