@@ -213,4 +213,5 @@ Rishi Bhardwaj
 Aspiring Data Analyst
 
 Skills: SQL | Python | Power BI | Excel | Data Analysis
+
 linkedin - www.linkedin.com/in/rishi-b-93b91b296
