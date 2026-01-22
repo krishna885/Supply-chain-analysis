@@ -211,5 +211,6 @@ Predictive supply chain modeling
 
 Rishi Bhardwaj
 Aspiring Data Analyst
-Skills: SQL | Python | Power BI | Excel | Data Analysis
 
+Skills: SQL | Python | Power BI | Excel | Data Analysis
+linkedin - www.linkedin.com/in/rishi-b-93b91b296
