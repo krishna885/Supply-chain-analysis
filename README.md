@@ -35,6 +35,7 @@ quantity_ordered	Quantity ordered
 customer_region	Customer region
 expected_delivery_date	Expected delivery date
 delivery_date	Actual delivery date
+
 2️⃣ Products (products.csv)
 
 Contains product-related details.
@@ -45,6 +46,7 @@ product_name	Product name
 category	Product category
 unit_cost	Cost per unit
 unit_price	Selling price per unit
+
 3️⃣ Inventory (inventory.csv)
 
 Contains stock information across warehouses.
@@ -56,6 +58,7 @@ stock_on_hand	Current stock quantity
 reorder_level	Minimum stock threshold
 reorder_quantity	Quantity to reorder
 last_updated	Last updated date
+
 4️⃣ Suppliers (suppliers.csv)
 
 Contains supplier performance data.
@@ -65,6 +68,7 @@ supplier_id	Supplier identifier
 product_id	Product supplied
 lead_time_days	Delivery lead time (days)
 supplier_rating	Supplier rating
+
 🛠️ Tools & Technologies
 
 SQL – Data analysis and KPI calculation
